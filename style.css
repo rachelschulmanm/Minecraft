@@ -1,0 +1,40 @@
+body {
+  height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+}
+.game {
+  display: grid;
+  grid-template-columns: repeat(22, 1fr);
+  /* grid-template-rows: repeat(30, 1fr); */
+  height: 100vh;
+  width: 100%;
+}
+.sky {
+  background-image: url("sky.jpg");
+}
+.rock {
+  background-image: url("rock.jpg");
+}
+.dirt {
+  background-image: url("dirt.jpg");
+}
+.tree {
+  background-image: url("tree.jpg");
+}
+.grass {
+  background-image: url("grass.jpg");
+}
+.baisTree {
+  background-image: url("baistree.jpg");
+}
+.tools {
+  position: relative;
+  background-color: blue;
+  /* width: 20%; */
+  /* left: 80%; */
+}
+div:hover {
+  /* background-image: url("tree.jpg"); */
+  border: 1px solid black;
+}

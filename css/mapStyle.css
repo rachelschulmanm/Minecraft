@@ -1,0 +1,35 @@
+.leaves {
+  background: url("/assets/leaves.webp") no-repeat center center/cover;
+}
+
+.trunck_tree {
+  background: url("/assets/trunck_tree.webp") no-repeat center center/cover;
+}
+
+.grass {
+  background: url("/assets/Grass_Block.webp") no-repeat center center/cover;
+}
+
+.dirt {
+  background: url("/assets/Dirt_.webp") no-repeat center center/cover;
+}
+
+.gravel {
+  background: url("/assets/Gravel_.webp") no-repeat center center/cover;
+}
+
+.flowers {
+  background: url("/assets/Lilac_.webp") no-repeat center center/cover;
+}
+
+.sun {
+  background: #f9e419;
+}
+
+.moon {
+  background: rgb(221, 245, 244);
+}
+
+.drakSky {
+  background-color: rgb(2, 2, 23);
+}
